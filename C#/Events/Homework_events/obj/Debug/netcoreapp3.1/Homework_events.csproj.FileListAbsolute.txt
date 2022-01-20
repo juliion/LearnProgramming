@@ -1,0 +1,13 @@
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.exe
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.deps.json
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.runtimeconfig.json
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.runtimeconfig.dev.json
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.dll
+C:\Users\julia\source\repos\Homework_events\Homework_events\bin\Debug\netcoreapp3.1\Homework_events.pdb
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.AssemblyInfo.cs
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.dll
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.pdb
+C:\Users\julia\source\repos\Homework_events\Homework_events\obj\Debug\netcoreapp3.1\Homework_events.genruntimeconfig.cache

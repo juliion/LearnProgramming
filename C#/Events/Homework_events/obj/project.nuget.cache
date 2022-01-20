@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkNgAv+u+glF/oorGyw5pkubtFHr7g34/Bn9x/MUhOawL0ew8V2/HNqVrp4R5EqMrvhFepANZ93PmvdU38LY3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\Homework_events\\Homework_events\\Homework_events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
