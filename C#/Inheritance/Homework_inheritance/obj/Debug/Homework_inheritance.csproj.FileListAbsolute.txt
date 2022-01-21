@@ -1,0 +1,7 @@
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\bin\Debug\Homework_inheritance.exe.config
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\bin\Debug\Homework_inheritance.exe
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\bin\Debug\Homework_inheritance.pdb
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\obj\Debug\Homework_inheritance.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\obj\Debug\Homework_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\obj\Debug\Homework_inheritance.exe
+C:\Users\julia\source\repos\Homework_inheritance\Homework_inheritance\obj\Debug\Homework_inheritance.pdb
