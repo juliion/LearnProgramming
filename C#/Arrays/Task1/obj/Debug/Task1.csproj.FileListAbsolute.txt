@@ -1,0 +1,13 @@
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\bin\Debug\Homework2.exe.config
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\bin\Debug\Homework2.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\bin\Debug\Homework2.pdb
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\obj\Debug\Homework2.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task1\obj\Debug\Homework2.pdb

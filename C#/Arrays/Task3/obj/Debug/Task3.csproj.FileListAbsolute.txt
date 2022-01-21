@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\C#\Homework2\Task3\bin\Debug\Task3.exe.config
+C:\Users\julia\source\repos\C#\Homework2\Task3\bin\Debug\Task3.exe
+C:\Users\julia\source\repos\C#\Homework2\Task3\bin\Debug\Task3.pdb
+C:\Users\julia\source\repos\C#\Homework2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\C#\Homework2\Task3\obj\Debug\Task3.exe
+C:\Users\julia\source\repos\C#\Homework2\Task3\obj\Debug\Task3.pdb
+C:\Users\julia\source\repos\C#\Homework2\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\bin\Debug\Task3.exe.config
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\bin\Debug\Task3.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\bin\Debug\Task3.pdb
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\obj\Debug\Task3.exe
+C:\Users\julia\Downloads\Homework2_1\Homework2\Task3\obj\Debug\Task3.pdb
