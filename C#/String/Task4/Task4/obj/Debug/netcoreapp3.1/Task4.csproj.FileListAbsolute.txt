@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\julia\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\julia\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
