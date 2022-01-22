@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTIlk6q5E2dDezRRGlftWp6dD1xXuKOPg1SWCjxhBdsnusuQSDuvpnb7a9f9iobP0yu0kq4T5A+thmcZ7zqLuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\Task2\\Task2\\Task2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
