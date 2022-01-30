@@ -1,0 +1,10 @@
+привет - hello
+пока - goodbye
+кот - cat
+собака - dog
+рыба - fish
+цветок - flower
+трава - grass
+дом - house
+человек - human
+программирование - programming
