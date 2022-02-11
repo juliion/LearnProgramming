@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZjtBwsynzHPUWjgdZK/cKzIDlYmbd7B49YMJH1Uotgf60cKRg7xMEmMTsYqDmklUz3gAqeU29UtjsRcO76O6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\Homework_serialization\\Homework_serialization\\Homework_serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

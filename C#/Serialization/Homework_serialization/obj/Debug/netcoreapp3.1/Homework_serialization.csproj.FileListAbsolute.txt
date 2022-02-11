@@ -1,0 +1,13 @@
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.exe
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.deps.json
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.runtimeconfig.json
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.runtimeconfig.dev.json
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.dll
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\bin\Debug\netcoreapp3.1\Homework_serialization.pdb
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.AssemblyInfo.cs
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.dll
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.pdb
+C:\Users\julia\source\repos\Homework_serialization\Homework_serialization\obj\Debug\netcoreapp3.1\Homework_serialization.genruntimeconfig.cache
