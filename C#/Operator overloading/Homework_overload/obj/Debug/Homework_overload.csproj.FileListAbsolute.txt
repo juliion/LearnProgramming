@@ -1,7 +1,0 @@
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\bin\Debug\Homework_overload.exe.config
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\bin\Debug\Homework_overload.exe
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\bin\Debug\Homework_overload.pdb
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\obj\Debug\Homework_overload.csprojAssemblyReference.cache
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\obj\Debug\Homework_overload.csproj.CoreCompileInputs.cache
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\obj\Debug\Homework_overload.exe
-C:\Users\julia\source\repos\Homework_overload\Homework_overload\obj\Debug\Homework_overload.pdb
