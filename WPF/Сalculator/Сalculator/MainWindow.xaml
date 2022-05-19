@@ -22,7 +22,7 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        <TextBox x:Name="PrevOperationsField" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" TextAlignment="Right" IsReadOnly="True"/>
+        <TextBox x:Name="PrevOperationsField" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="4" TextAlignment="Right" IsReadOnly="True" Foreground="Gray"/>
         <TextBox x:Name="CurOperationsField" Grid.Row="1" Grid.ColumnSpan="4" TextAlignment="Right" FontSize="30" FontWeight="Bold"/>
         <Button Grid.Column="0" Grid.Row="2" Content="CE"/>
         <Button Grid.Column="0" Grid.Row="3" Content="7"/>
